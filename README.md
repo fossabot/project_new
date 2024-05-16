@@ -1,4 +1,6 @@
 # DevOps-Assignment
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmadhukadiyam%2Fproject_new.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmadhukadiyam%2Fproject_new?ref=badge_shield)
+
 
 This DevOps Assignment represents exactly the type of tasks which you might have to do as a DevOps Engineer at SmartCow. In this repo, you will find a simple Python - Flask Web App, which reads the current RAM and CPU usage and a React frontend which shows the statistics in the browser.
 
@@ -75,3 +77,7 @@ PS Please package your code up in a Github repo and share the link
 
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmadhukadiyam%2Fproject_new.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmadhukadiyam%2Fproject_new?ref=badge_large)
